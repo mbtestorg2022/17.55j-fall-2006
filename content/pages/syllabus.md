@@ -96,19 +96,120 @@ Grading
 
 Your grade will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Map Test | 5% |
-| Show and Tell (4 Times, 2.5% each, Graded as a Team) | 10% |
-| Class Debate (Average of Individual Grade and Team Grade) | 5% |
-| Presentation on Economic Development | 5% |
-| Presentation on Mexican Development | 5% |
-| Presentation on Police Reform in Mexico | 5% |
-| Presentation on Land Titling in Brazil (Graded as a Team) | 5% |
-| Other Class Participation | 5% |
-| First Drafts of Papers (3 Drafts, 7.5% each) | 22.5% |
-| Revisions of Papers (2 Revisions, 7.5% each) | 15% |
-| Final Exam | 17.5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Map Test
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Show and Tell (4 Times, 2.5% each, Graded as a Team)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Debate (Average of Individual Grade and Team Grade)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation on Economic Development
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation on Mexican Development
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation on Police Reform in Mexico
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation on Land Titling in Brazil (Graded as a Team)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Other Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Drafts of Papers (3 Drafts, 7.5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+22.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revisions of Papers (2 Revisions, 7.5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+17.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Thus, the total oral and written components of the class will be weighted roughly equally. About 20% of your grade will be determined by your work with your other classmates; most of your grade will depend on your individual performance. Within the limits imposed by equity, grading will attempt to take into account the fact that some students (seniors, those who have lived for a long time in Latin America, political science majors, etc.) have had far more exposure to the material covered in the class.
 
@@ -117,58 +218,615 @@ Calendar
 
 L = Lecture R = Recitation
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction and Pop Quiz | &nbsp; |
-| {{< td-colspan 3 >}}**I. Historical Inheritances and Current Realities**{{< /td-colspan >}} |||
-| L2 |  {{< br >}}{{< br >}} Finish Pop Quiz {{< br >}}{{< br >}} Latin America as a "Living Museum" {{< br >}}{{< br >}}  | &nbsp; |
-| R1 | Show and Tell | Show and tell 1 |
-| L3 | Class Discussion of _Big Mama's Funeral_ | &nbsp; |
-| {{< td-colspan 3 >}}**II. The Legacies of Conquest and Slavery**{{< /td-colspan >}} |||
-| L4 | Conquest, Bourbon "Reconquest," and The Post-Colonial Period | Map test |
-| R2 | Americas Video: _Mirrors of the Heart: Color, Class, and Identity_ | &nbsp; |
-| L5 | Class Discussion of Race | &nbsp; |
-| {{< td-colspan 3 >}}**III. Development and Underdevelopment in Latin America**{{< /td-colspan >}} |||
-| L6 | Lecture: Theories of Development | &nbsp; |
-| R3 | Prepare for Individual Class Presentations | &nbsp; |
-| L7 | Economic Development | Individual presentations |
-| {{< td-colspan 3 >}}**IV. Underdevelopment and What to Do About It**{{< /td-colspan >}} |||
-| L8 | The Latin American Debt Crisis, Structural Adjustment, and Market-oriented Reform | &nbsp; |
-| R4 | Breakout Groups in Preparation for Extemporaneous Presentations | &nbsp; |
-| L9 | Steroid Hormone Industry and Mexican Development Strategies Today |  {{< br >}}{{< br >}} Extemporaneous presentations {{< br >}}{{< br >}} Paper 1 due one day after Ses #L9 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**V. Development, Underdevelopment and Politics in Chile**{{< /td-colspan >}} |||
-| R5 | _The Battle for Chile_ (Part I) | &nbsp; |
-| L10 | Class Discussion of _The House of the Spirits_ | &nbsp; |
-| {{< td-colspan 3 >}}**VI. Development, Democratic Breakdown, and Military Rule**{{< /td-colspan >}} |||
-| L11 | Lecture: The Breakdown of Chilean Democracy | &nbsp; |
-| R6 | _The Battle for Chile_ (Part II) | &nbsp; |
-| L12 | Class Discussion of Chilean Experience | Paper 1 revision due one day after Ses #L12 |
-| {{< td-colspan 3 >}}**VII. Re-Democratization in Chile (and Elsewhere)**{{< /td-colspan >}} |||
-| L13 | Lecture: Bureaucratic Authoritarianism in Chile and Elsewhere | &nbsp; |
-| R7 | _La Historia Oficial_ | &nbsp; |
-| L14 | Lecture: The Transition to Democracy in Chile and Elsewhere | &nbsp; |
-| {{< td-colspan 3 >}}**VIII. Civil-Military Relations in Latin America and Accountability for Past Abuses**{{< /td-colspan >}} |||
-| L15 | Establishing Civilian Control Over the Military and Transitional Justice | &nbsp; |
-| R8 | Recent Events in Chile | Show and tell 2 |
-| L16 | Day of the Dead and Religion in Latin America | Paper 2 due one day after Ses #L16 |
-| {{< td-colspan 3 >}}**IX. Accountability for Past Abuses and the Rule of Law**{{< /td-colspan >}} |||
-| L17 | Preparations for Class Debate | &nbsp; |
-| R9 | Prosecute and Punish or Forgive and Forget? | Class debate |
-| L18 | Prosecute and Punish or Forgive and Forget? | Class debate |
-| {{< td-colspan 3 >}}**X. Rule of Law: Corruption and Criminal Justice in Mexico**{{< /td-colspan >}} |||
-| L19 | Lecture: The Rule of Law in Latin America: "Guilty Until Proven Rich." | &nbsp; |
-| R10 | Criminal Justice in Mexico | Show and tell 3 |
-| L20 | Lecture: One-Party Rule, Democratization, and Corruption in Mexico | Paper 2 revision due one day after Ses #L20 |
-| {{< td-colspan 3 >}}**XI. Policing Mexico City**{{< /td-colspan >}} |||
-| L21 | Police Reform in Mexico City | Group presentations |
-| {{< td-colspan 3 >}}**XII. The Rule of Law in Brazil**{{< /td-colspan >}} |||
-| L22 |  {{< br >}}{{< br >}} Class Discussion of de Soto's Argument {{< br >}}{{< br >}} Prepare for Class Presentations {{< br >}}{{< br >}}  | &nbsp; |
-| R11 | _Central Station_ | &nbsp; |
-| L23 | How Should Land Disputes in Brazil be Resolved? |  {{< br >}}{{< br >}} Group presentations {{< br >}}{{< br >}} Paper 3 due one day after Ses #L23 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**XIII. The New Populism in Latin America**{{< /td-colspan >}} |||
-| L24 | Lecture: Revolution, Reduction: The New Populism in Latin America | &nbsp; |
-| R12 | Venezuela | Show and tell 4 |
-| L25 |  {{< br >}}{{< br >}} Discussion of Venezuela {{< br >}}{{< br >}} Prepare for Final Exam {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**XIV. Conclusion: Latin America After Big Mama**{{< /td-colspan >}} |||
-| L26 |  {{< br >}}{{< br >}} Class Discussion of _Big Mama's Funeral_ {{< br >}}{{< br >}} Lecture: Latin America after Big Mama {{< br >}}{{< br >}}  | &nbsp; |
-| R13 |  {{< br >}}{{< br >}} Optional {{< br >}}{{< br >}} Discussion of Final Exam {{< br >}}{{< br >}}  | Optional paper 3 revision due three days after Ses #L26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Pop Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Historical Inheritances and Current Realities**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Finish Pop Quiz
+
+Latin America as a "Living Museum"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Show and Tell
+{{< tdclose >}}
+{{< tdopen >}}
+Show and tell 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of _Big Mama's Funeral_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. The Legacies of Conquest and Slavery**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Conquest, Bourbon "Reconquest," and The Post-Colonial Period
+{{< tdclose >}}
+{{< tdopen >}}
+Map test
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Americas Video: _Mirrors of the Heart: Color, Class, and Identity_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of Race
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Development and Underdevelopment in Latin America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Theories of Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare for Individual Class Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Development
+{{< tdclose >}}
+{{< tdopen >}}
+Individual presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Underdevelopment and What to Do About It**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+The Latin American Debt Crisis, Structural Adjustment, and Market-oriented Reform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Breakout Groups in Preparation for Extemporaneous Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Steroid Hormone Industry and Mexican Development Strategies Today
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Extemporaneous presentations
+
+Paper 1 due one day after Ses #L9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Development, Underdevelopment and Politics in Chile**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+_The Battle for Chile_ (Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of _The House of the Spirits_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VI. Development, Democratic Breakdown, and Military Rule**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: The Breakdown of Chilean Democracy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+_The Battle for Chile_ (Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of Chilean Experience
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 revision due one day after Ses #L12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VII. Re-Democratization in Chile (and Elsewhere)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Bureaucratic Authoritarianism in Chile and Elsewhere
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+_La Historia Oficial_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: The Transition to Democracy in Chile and Elsewhere
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VIII. Civil-Military Relations in Latin America and Accountability for Past Abuses**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Establishing Civilian Control Over the Military and Transitional Justice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Recent Events in Chile
+{{< tdclose >}}
+{{< tdopen >}}
+Show and tell 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Day of the Dead and Religion in Latin America
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due one day after Ses #L16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IX. Accountability for Past Abuses and the Rule of Law**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Preparations for Class Debate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Prosecute and Punish or Forgive and Forget?
+{{< tdclose >}}
+{{< tdopen >}}
+Class debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Prosecute and Punish or Forgive and Forget?
+{{< tdclose >}}
+{{< tdopen >}}
+Class debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**X. Rule of Law: Corruption and Criminal Justice in Mexico**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: The Rule of Law in Latin America: "Guilty Until Proven Rich."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Criminal Justice in Mexico
+{{< tdclose >}}
+{{< tdopen >}}
+Show and tell 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: One-Party Rule, Democratization, and Corruption in Mexico
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 revision due one day after Ses #L20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XI. Policing Mexico City**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Police Reform in Mexico City
+{{< tdclose >}}
+{{< tdopen >}}
+Group presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XII. The Rule of Law in Brazil**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Discussion of de Soto's Argument
+
+Prepare for Class Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+_Central Station_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+How Should Land Disputes in Brazil be Resolved?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group presentations
+
+Paper 3 due one day after Ses #L23
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XIII. The New Populism in Latin America**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Revolution, Reduction: The New Populism in Latin America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R12
+{{< tdclose >}}
+{{< tdopen >}}
+Venezuela
+{{< tdclose >}}
+{{< tdopen >}}
+Show and tell 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Venezuela
+
+Prepare for Final Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**XIV. Conclusion: Latin America After Big Mama**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class Discussion of _Big Mama's Funeral_
+
+Lecture: Latin America after Big Mama
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Optional
+
+Discussion of Final Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Optional paper 3 revision due three days after Ses #L26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
