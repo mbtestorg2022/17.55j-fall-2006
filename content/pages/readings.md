@@ -523,7 +523,7 @@ Recent articles on police reform in Mexico. On-line sources on police reform in 
 *   Varenik, Robert O. "[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-15.
 *   Arroyo, Mario. "[Evaluando la 'Estrategía Giuliani': la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_, (May 15, 2003): 1-18.
 *   Antonio Carrillo Maza, Marco. "[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/)." _Center for U.S.-Mexican Studies_. _Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-16.
-*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
+*   Chapter 3 in "Democratizing the Police Abroad: What to Do and How to Do It." pp. 17-32 ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
 *   Reames, Benjamin. "[Police Forces in Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." _Center for U.S.-Mexican Studies. Project on Reforming the Administration of Justice in Mexico_ (May 15, 2003): 1-11.
 
 
